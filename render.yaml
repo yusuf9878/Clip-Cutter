@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: telegram-bot
-    env: python
-    repo: https://github.com/yusuf9878/Clip-Cutter.git
-    startCommand: "bash start.sh"
